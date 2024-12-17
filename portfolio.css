@@ -1,0 +1,24 @@
+.text{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+}
+.background{
+    background-color: grey;
+    background-image: url('file:///C:/Users/Student/Downloads/Cal.gif');
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.card{
+    justify-content: center;
+    padding-right: 80px;
+    background-color: white;
+    border-radius: 150px;
+    background-image: url('https://i.postimg.cc/L6mFY0H8/Screenshot-2024-12-17-095856.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 150px;
+}
